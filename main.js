@@ -1,0 +1,2 @@
+console.log('I WILL DO THE CODING PART IN NEXT CLASS...');
+console.log('AND I HAVE MADE THE WEBSITE IS GOOD');
